@@ -1,6 +1,6 @@
 
 function Home(){
-    return <h1>Teste123</h1>
+    return <h1>Pagina Inicial</h1>
 }
 
 export default Home
